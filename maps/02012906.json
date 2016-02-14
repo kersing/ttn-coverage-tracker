@@ -13,7 +13,7 @@
                 "hash": "008000000000A050",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "g"
+                "sym": "b"
             },
             "type": "Feature"
         },
@@ -31,7 +31,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "4b8459d4bbf60fc07b908d0949182c9eb275bc05",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -65,
                 "snr": 7.0,
                 "time": "2016-02-13T15:37:20.279Z"
@@ -52,7 +52,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "31845d37764358d5ac565829c2f2167b4bee3402",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -102,
                 "snr": 0.8,
                 "time": "2016-02-13T15:35:15.368Z"
@@ -62,8 +62,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0,
-                    0.0
+                    6.55738,
+                    53.18977
                 ],
                 "type": "Point"
             },
@@ -72,7 +72,7 @@
                 "hash": "1DEE0DD778094AC5",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "h"
+                "sym": "c"
             },
             "type": "Feature"
         },
@@ -86,11 +86,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.7 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "8647ff3525a9ca7fcda08a58bb5071e805842dbe",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -92,
                 "snr": 5.8,
                 "time": "2016-02-13T15:35:15.332Z"
@@ -111,7 +111,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2d98a877a39533f88aa7269ed865239555b6e079",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -117,
                 "snr": -14.2,
                 "time": "2016-02-13T15:33:10.447Z"
@@ -128,11 +128,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e820be6f0e96a0cf4b7cdefd4ba1765b1780b57a",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -2.8,
                 "time": "2016-02-13T15:33:10.415Z"
@@ -149,11 +149,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "cbe5ba7cf78b0e984b05f12ba175e23447d2e091",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -3.8,
                 "time": "2016-02-13T15:26:59.551Z"
@@ -170,11 +170,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "77ade56d7c04426f24e6c43dc354ee5a7a1d85c0",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -2.5,
                 "time": "2016-02-13T15:24:54.633Z"
@@ -191,11 +191,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.0 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ef9a421c435cb6b8e95353e191a9ba85fc5da88c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -10.2,
                 "time": "2016-02-13T15:20:48.684Z"
@@ -215,7 +215,7 @@
                 "hash": "1DEE15E85FA7DCEF",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "i"
+                "sym": "d"
             },
             "type": "Feature"
         },
@@ -233,7 +233,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "60742aac0cea7671a55616548b016b7dc82c0a2f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -14.5,
                 "time": "2016-02-13T15:14:37.833Z"
@@ -254,7 +254,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "a688c5be384a2681f96441a9abe22e02afd44756",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -118,
                 "snr": -8.8,
                 "time": "2016-02-13T15:10:31.873Z"
@@ -275,7 +275,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "0c0543b3dc6cb00bada0b4b788f459fe67b9458c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -10.2,
                 "time": "2016-02-13T15:08:26.964Z"
@@ -295,7 +295,7 @@
                 "hash": "008000000000A44E",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "j"
+                "sym": "e"
             },
             "type": "Feature"
         },
@@ -313,7 +313,7 @@
                 "gateway_eui": "008000000000A44E",
                 "hash": "af691909654221e5e8954bc62a3243d0411fec89",
                 "marker-color": "#78c679",
-                "marker-symbol": "j",
+                "marker-symbol": "e",
                 "rssi": -102,
                 "snr": -1.5,
                 "time": "2016-02-13T14:58:06.254Z"
@@ -334,7 +334,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "93a60448d2c334f2b0d43c32074cff96645c917d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -119,
                 "snr": -10.5,
                 "time": "2016-02-13T14:51:59.370Z"
@@ -355,7 +355,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "3dc5b6491f293b2398a537c1298926f4378a1837",
                 "marker-color": "#78c679",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -108,
                 "snr": 4.5,
                 "time": "2016-02-13T14:49:54.369Z"
@@ -372,11 +372,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.9 km",
+                "distance": "2.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ed366c16a74e1358cd4ca603f2013b08d76b53f5",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -12.5,
                 "time": "2016-02-13T14:47:49.440Z"
@@ -397,7 +397,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "3102639f211bb257bc1e69439d991b6efc01a8ab",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -120,
                 "snr": -17.0,
                 "time": "2016-02-13T14:43:43.515Z"
@@ -418,7 +418,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "188a07557760865225dbf0d3c64e6c42df58094d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-02-13T14:43:43.501Z"
@@ -435,11 +435,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.4 km",
+                "distance": "2.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e23cb4f2dd9963bf54085a08885c07eaa0d93a33",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -9.0,
                 "time": "2016-02-13T14:43:43.478Z"
@@ -460,7 +460,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "69e144311e3242b9557c17354fe29e7a99daa583",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -12.0,
                 "time": "2016-02-13T14:41:38.644Z"
@@ -477,11 +477,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "8e7fc3b35c8c701441e82ce2a2a4bf91561ea9f0",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -97,
                 "snr": 6.5,
                 "time": "2016-02-13T14:35:27.706Z"
@@ -502,7 +502,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d65d10dada03548b805d3123d5ec8b68ed71b9c6",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -12.2,
                 "time": "2016-02-11T11:47:00.529Z"
@@ -519,11 +519,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e0c53edd902d0003d715080968069c4c3d9f7944",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -2.0,
                 "time": "2016-02-11T11:47:00.507Z"
@@ -544,7 +544,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "c7cfce5967573fae0150c31227bdc9185e6a8fc1",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -117,
                 "snr": -5.5,
                 "time": "2016-02-11T11:42:54.587Z"
@@ -561,11 +561,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e1509c2a07c52df88a550385202551438f0bd6fa",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -7.0,
                 "time": "2016-02-11T11:42:54.559Z"
@@ -586,7 +586,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "247d169bb0f8c5fb09c6f03d8ece8ad33638c46d",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -111,
                 "snr": -11.0,
                 "time": "2016-02-11T11:38:48.643Z"
@@ -603,11 +603,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b2d6d8319a93ed2c034e3775e6881eb7ab49b564",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -2.5,
                 "time": "2016-02-11T11:38:48.616Z"
@@ -628,7 +628,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "58ebee1db3e751d818f73cdb943058d4105cecd3",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -113,
                 "snr": -7.2,
                 "time": "2016-02-11T11:36:43.742Z"
@@ -645,11 +645,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6fe43d27411b452aa3bca3230b81f1f66536521c",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -0.8,
                 "time": "2016-02-11T11:36:43.702Z"
@@ -670,7 +670,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "aa2eaf931cf2c9f0efc316b4f83b32576ce2ca5b",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -12.5,
                 "time": "2016-02-11T11:28:31.842Z"
@@ -691,7 +691,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "c3b68b7db69dfbdf66900441daade6e994a3046f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -119,
                 "snr": -17.0,
                 "time": "2016-02-11T11:28:31.828Z"
@@ -708,11 +708,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.8 km",
+                "distance": "1.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "298b18ed368db3145cb5fc8903a786f2147712b3",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -3.8,
                 "time": "2016-02-11T11:28:31.811Z"
@@ -729,11 +729,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.1 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "001fbbc593d569d449b554276a20793f6f43bc1d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -14.2,
                 "time": "2016-02-11T11:24:22.013Z"
@@ -754,7 +754,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "15d9026eccf62a21de9652b3e52f808964cf666b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -119,
                 "snr": -13.5,
                 "time": "2016-02-11T11:24:21.997Z"
@@ -775,7 +775,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "88655224375a26944c516e107c474cb2763442cb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -119,
                 "snr": -8.8,
                 "time": "2016-02-11T11:20:16.051Z"
@@ -792,11 +792,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6dd68351e998c8b5f23ebcbf4964f0e5de05e39f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -120,
                 "snr": -13.2,
                 "time": "2016-02-11T11:20:16.036Z"
@@ -813,11 +813,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "02528f43085278967fed7e29fc367dbb192f0b51",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -10.0,
                 "time": "2016-02-11T11:16:06.217Z"
@@ -838,7 +838,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "f0a49d00f56b6653e27e1e817f056448906e3549",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": -17.8,
                 "time": "2016-02-11T11:07:54.373Z"
@@ -855,11 +855,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.5 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "5ad1abd8e37e416f903d1b53901417209b845714",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -9.0,
                 "time": "2016-02-11T11:07:54.340Z"
@@ -880,7 +880,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "1082be14562b77639360686472fa5ce371642339",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -14.0,
                 "time": "2016-02-11T11:05:49.504Z"
@@ -897,11 +897,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "83bd64bffc1eb3960a582af09ec5f5778b167b9c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -6.2,
                 "time": "2016-02-11T11:05:49.423Z"
@@ -918,11 +918,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b4abc70e36b148b95c3b309a74a094d58292b3cb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -6.0,
                 "time": "2016-01-30T15:19:13.745Z"
@@ -943,7 +943,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "59dc62e3afb28ed9317aae6f2705c5844b8d53e9",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -16.2,
                 "time": "2016-01-30T15:17:08.851Z"
@@ -960,11 +960,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6ac36e5653cfc243f7f995c431e54b6e70bf769b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-01-30T15:17:08.826Z"
@@ -985,7 +985,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "8595223e6a03bc5a4ced46a4f85a4af22d919000",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -113,
                 "snr": -3.8,
                 "time": "2016-01-30T15:13:02.903Z"
@@ -1002,11 +1002,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "1a9f9d0f04240be0a1456082d72badd11cc803a2",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -115,
                 "snr": 2.0,
                 "time": "2016-01-30T15:13:02.887Z"
@@ -1027,7 +1027,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "138d86fb092becd0e705bf16e7cf1bdcc38bef05",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -96,
                 "snr": 4.2,
                 "time": "2016-01-30T14:46:14.537Z"
@@ -1048,7 +1048,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "97151e9f846413c4436695013b84be7687a1cef3",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -109,
                 "snr": 3.0,
                 "time": "2016-01-30T14:40:07.553Z"
@@ -1065,11 +1065,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "16ab937f0fee290b47e34dabb23e9daa356c47a6",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -105,
                 "snr": 5.5,
                 "time": "2016-01-30T14:40:07.535Z"
@@ -1090,7 +1090,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "00bc9e0d462df7a5b3f3387a295ef213e0071d92",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -106,
                 "snr": 1.5,
                 "time": "2016-01-30T14:38:02.651Z"
@@ -1111,7 +1111,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "e14ad761fed9156626c378bb373dad8eef0adcca",
                 "marker-color": "#238443",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -76,
                 "snr": 7.2,
                 "time": "2016-01-30T14:35:57.756Z"
@@ -1128,11 +1128,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "49d3802a13a9c1baa4ccbe3ef10ce82d3e3f8d35",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -62,
                 "snr": 7.0,
                 "time": "2016-01-30T14:35:57.718Z"
@@ -1153,7 +1153,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7df49e194f0eff873b9cde78c3df8888e17176bb",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 6.8,
                 "time": "2016-01-29T17:57:24.311Z"
@@ -1170,11 +1170,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "636a93af3bd2cdc93628c0d959b0fd9d3c2a8175",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -61,
                 "snr": 6.2,
                 "time": "2016-01-29T17:57:24.294Z"
@@ -1195,7 +1195,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "581a1efba24e71bc224c23b69afc8699edcbdfb9",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -69,
                 "snr": 7.2,
                 "time": "2016-01-29T17:55:19.399Z"
@@ -1212,11 +1212,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.5 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3d41dde57801bc1542dec3e65cc36326c4c75781",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -76,
                 "snr": 7.5,
                 "time": "2016-01-29T17:55:19.388Z"
@@ -1237,7 +1237,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2dc22d8c8d0c843119d11a0d0825aa689224ec68",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -95,
                 "snr": 5.2,
                 "time": "2016-01-29T17:51:13.454Z"
@@ -1254,11 +1254,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4e4022f58cb79d09d33e7c559af15e415d67ad3f",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -88,
                 "snr": 6.5,
                 "time": "2016-01-29T17:51:13.431Z"
@@ -1279,7 +1279,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "0ff97dc378ca073ab788f96dcc241f67fe93de3b",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -108,
                 "snr": -0.5,
                 "time": "2016-01-29T17:49:08.531Z"
@@ -1296,11 +1296,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "2e47a32a11b88833981d3524027e4d07b39c3e1b",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -106,
                 "snr": 2.8,
                 "time": "2016-01-29T17:49:08.514Z"
@@ -1321,7 +1321,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "42e1b289aad107c753f99e23da1f47908175cd90",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -112,
                 "snr": -8.5,
                 "time": "2016-01-29T17:47:03.621Z"
@@ -1338,11 +1338,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6e93e7b1786123ff0a595cbae4a606cecf27a466",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -14.2,
                 "time": "2016-01-29T17:47:03.608Z"
@@ -1363,7 +1363,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ff78bec02f5fa1f76a6bfd2a648479c03826ffd1",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": -9.2,
                 "time": "2016-01-29T17:40:56.650Z"
@@ -1380,11 +1380,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "bb008efd6fa248bc7ca5766f2f6b6d6dadf113c8",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -1.5,
                 "time": "2016-01-29T17:40:56.622Z"
@@ -1401,11 +1401,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.3 km",
+                "distance": "0.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "f20c639f9efef9c2e93c4b246bec65ccc21e1ab3",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -68,
                 "snr": 7.5,
                 "time": "2016-01-29T17:38:51.712Z"
@@ -1426,7 +1426,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "6c50cbb12d2cf097c817c40164557d05ecf5deb5",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -54,
                 "snr": 8.0,
                 "time": "2016-01-29T17:36:46.824Z"
@@ -1443,11 +1443,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "69e4070208329160e5b815ec464211e67451fc00",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -55,
                 "snr": 7.8,
                 "time": "2016-01-29T17:36:46.789Z"
@@ -1468,7 +1468,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b362159dd68859fefef60840439ebb0a2b3e59e0",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -10.5,
                 "time": "2016-01-28T11:28:28.853Z"
@@ -1485,11 +1485,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "1c4bc4096a713b98bb8af08546900a68ec48c337",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -116,
                 "snr": -10.5,
                 "time": "2016-01-28T11:28:28.831Z"
@@ -1510,7 +1510,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2b24bc587aebb31e0d300a56dd2d8884383ef08d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -117,
                 "snr": -15.2,
                 "time": "2016-01-28T11:26:23.942Z"
@@ -1527,11 +1527,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9bfa6511a97b31dd7b50dde0eb1f3212f40c2a59",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -4.2,
                 "time": "2016-01-28T11:26:23.913Z"
@@ -1552,7 +1552,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "9275cbbd1a83ddf02c65bf7cc2ac3fa5592053d3",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -91,
                 "snr": -14.2,
                 "time": "2016-01-28T11:24:19.026Z"
@@ -1569,11 +1569,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "deba4ae19c3f97a02da3792f7982066999e20ad6",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -96,
                 "snr": -1.2,
                 "time": "2016-01-28T11:24:18.996Z"
@@ -1594,7 +1594,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "1079c52f6106b5d282ce6be30297c2c58117c095",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": -1.2,
                 "time": "2016-01-28T11:20:13.077Z"
@@ -1611,11 +1611,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "adc5740dea19f96af4c9c44c07dfa632255b2bed",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -111,
                 "snr": 1.5,
                 "time": "2016-01-28T11:20:13.051Z"
@@ -1636,7 +1636,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "4f34e57302d70b6e7a5dc49495fe8bf82565de43",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -108,
                 "snr": -2.0,
                 "time": "2016-01-28T11:18:08.159Z"
@@ -1653,11 +1653,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e3e781decaa42003db2f679d63907b1f7b4b2f4d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -0.5,
                 "time": "2016-01-28T11:18:08.131Z"
@@ -1678,7 +1678,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7e9d5c41db2a83ed531e825511bd0add6b607f53",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -100,
                 "snr": 5.0,
                 "time": "2016-01-28T11:16:03.238Z"
@@ -1695,11 +1695,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "f181db5382ffe17fac25131ba867419830b8e18d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -105,
                 "snr": 4.2,
                 "time": "2016-01-28T11:16:03.226Z"
@@ -1720,7 +1720,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "bd320ac2023a4d82121c41fb99601078f98bff93",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": 3.0,
                 "time": "2016-01-28T11:09:56.263Z"
@@ -1737,11 +1737,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3a33af831e6aee47e24969be8ce35f961c90af40",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -95,
                 "snr": 6.0,
                 "time": "2016-01-28T11:09:56.246Z"
@@ -1762,7 +1762,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "3bfa730b7c1b3b47eaa9953fe4998c5e240c2c72",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -4.2,
                 "time": "2016-01-28T11:07:51.354Z"
@@ -1779,11 +1779,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "571538c5bed37c947f8cc1077fa799e5d28e0854",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -111,
                 "snr": 3.2,
                 "time": "2016-01-28T11:07:51.338Z"
@@ -1804,7 +1804,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "14e138fbe3e62a9448a1caedf248ca0c7bef105d",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -9.5,
                 "time": "2016-01-28T11:05:46.462Z"
@@ -1821,11 +1821,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "53c7184db52c2b719b0806d3813d4dbd0af0c24d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": 0.2,
                 "time": "2016-01-28T11:05:46.430Z"
@@ -1846,7 +1846,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "fad636c055a30fb6fd6577c23020f853ba2d9bee",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -58,
                 "snr": 7.2,
                 "time": "2016-01-26T23:59:04.087Z"
@@ -1863,11 +1863,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "65b1c49070b4d7a54fa5fe102cb1a0bca0f08535",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.0,
                 "time": "2016-01-26T23:59:04.071Z"
@@ -1884,11 +1884,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "7ce6c4fed99fa0f984cd77271f99f144f20605f6",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 7.2,
                 "time": "2016-01-26T23:52:53.225Z"
@@ -1909,7 +1909,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "52ac577bb22b25ffd88e0cd0d850a755029f9f2b",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -59,
                 "snr": 7.0,
                 "time": "2016-01-26T23:48:47.301Z"
@@ -1926,11 +1926,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e2a62fcb27d35ad74fd6820dae36b6709f0e26ad",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.2,
                 "time": "2016-01-26T23:48:47.286Z"
@@ -1951,7 +1951,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "570997da563c1635b99a8ed6d8fa01b66b2d8acc",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -57,
                 "snr": 6.5,
                 "time": "2016-01-26T23:44:41.357Z"
@@ -1968,11 +1968,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "100cee6fbbf832a7caa100b384e897d88f890ef4",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 6.8,
                 "time": "2016-01-26T23:44:41.335Z"
@@ -1993,7 +1993,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7f87da89697ac7a4c951b48a4bacd4260f2e2885",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -57,
                 "snr": 6.2,
                 "time": "2016-01-26T23:42:36.449Z"
@@ -2014,7 +2014,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7fe3aaa79f96d500d928749ceab76352a53ab59c",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -58,
                 "snr": 8.0,
                 "time": "2016-01-26T23:40:31.542Z"
@@ -2031,11 +2031,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "878f86a638f216cbe30797e89118ceebd37d2201",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 7.0,
                 "time": "2016-01-26T23:36:25.595Z"
@@ -2056,7 +2056,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "0e020d22a7800ca361b3da320e104261e680dac5",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -58,
                 "snr": 6.2,
                 "time": "2016-01-26T23:34:20.701Z"
@@ -2073,11 +2073,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "bcb82641d8a42d311e18d458d2571d6af6792c93",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 6.5,
                 "time": "2016-01-26T23:34:20.676Z"
@@ -2098,7 +2098,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "f49200af375406296c178b0d670680f5606b501e",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -52,
                 "snr": 6.8,
                 "time": "2016-01-26T23:30:14.750Z"
@@ -2119,7 +2119,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "a1a5462005cfb04049c1fd266459c01aae2ab18f",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -53,
                 "snr": 6.5,
                 "time": "2016-01-26T23:26:08.819Z"
@@ -2136,11 +2136,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "888cf5052e67345691a23b7453ecff60ee4bd25f",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 6.0,
                 "time": "2016-01-26T23:26:08.794Z"
@@ -2161,7 +2161,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "0062e00487a494e6c454467e77e4f60991ae6d91",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -54,
                 "snr": 6.5,
                 "time": "2016-01-26T23:24:03.907Z"
@@ -2182,7 +2182,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "8a6571416cb7b078e24a88c9826498918e6bacac",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -54,
                 "snr": 6.5,
                 "time": "2016-01-26T23:21:59Z"
@@ -2199,11 +2199,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "d5c43e81458490fe7c2328a4b57d4f40968809ac",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.0,
                 "time": "2016-01-26T23:21:58.978Z"
@@ -2224,7 +2224,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b8cb5b715797f035f55f79089cfc0551111ec13b",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -16.8,
                 "time": "2016-01-26T11:42:55.213Z"
@@ -2241,11 +2241,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "eacd1d02427663493edf0ed9b1fad6220254acc9",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -12.0,
                 "time": "2016-01-26T11:42:55.177Z"
@@ -2266,7 +2266,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b8cb5df5b82173e3837e0ca36d5819ccaba33ded",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": -11.5,
                 "time": "2016-01-26T11:37:54.321Z"
@@ -2283,11 +2283,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b19476b4ca5da51080ade127819993ef541adcfb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -3.0,
                 "time": "2016-01-26T11:37:54.308Z"
@@ -2308,7 +2308,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "dac027526055f75c5608da2e0b6938fcf6680293",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -114,
                 "snr": -11.0,
                 "time": "2016-01-26T11:35:49.409Z"
@@ -2329,7 +2329,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "a7641c25f75dd0da337d7bd31cf2337f439837dc",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -112,
                 "snr": -4.2,
                 "time": "2016-01-26T11:33:44.500Z"
@@ -2346,11 +2346,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.6 km",
+                "distance": "1.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e58a294738cad9dba0f8ad1df927d6d1cd967169",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -104,
                 "snr": 0.5,
                 "time": "2016-01-26T11:33:44.483Z"
@@ -2371,7 +2371,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "dbb1087e00f881c95b83ac1c42d8dd3b468b1c1e",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -119,
                 "snr": -16.5,
                 "time": "2016-01-26T11:27:37.524Z"
@@ -2388,11 +2388,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.9 km",
+                "distance": "1.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e76c2c8267dcee0ce8ca9af69a8e090ff587385b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -120,
                 "snr": -11.0,
                 "time": "2016-01-26T11:27:37.514Z"
@@ -2413,7 +2413,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "574d74c330e5205157b3d09aa460713f9a2baf74",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -12.5,
                 "time": "2016-01-26T11:25:32.611Z"
@@ -2430,11 +2430,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.0 km",
+                "distance": "1.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4c64581d26a407ce69d98a777801308d436b4cf3",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -12.2,
                 "time": "2016-01-26T11:25:32.597Z"
@@ -2455,7 +2455,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "93bb28b3acdc2b7cdfc9a463e6a8f016d46383f8",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -111,
                 "snr": -17.5,
                 "time": "2016-01-26T11:23:27.715Z"
@@ -2476,7 +2476,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "9fe4a78ec193ae50488f63a64d270568a63bf245",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -117,
                 "snr": -16.5,
                 "time": "2016-01-26T11:23:27.703Z"
@@ -2493,11 +2493,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "a2d9277c6c9ebffcb9d87eb59f612804cf0ded6f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -7.8,
                 "time": "2016-01-26T11:23:27.689Z"
@@ -2514,11 +2514,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ae68d0ee511dd767a428b7389ade126f5410f509",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -121,
                 "snr": -14.0,
                 "time": "2016-01-26T11:17:16.855Z"
@@ -2535,11 +2535,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.1 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "18088ed2401835a6e3fb7493d9d4fd722b8d995b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -12.0,
                 "time": "2016-01-26T11:15:11.947Z"
@@ -2556,11 +2556,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.7 km",
+                "distance": "1.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9a84b6362e338e13142feb1c634acda671bd6316",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -9.5,
                 "time": "2016-01-26T11:09:04.985Z"
@@ -2577,11 +2577,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.5 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "11d5ab8efa0afee012802d039cfd45d4d7762d30",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-01-26T11:07:00.075Z"
@@ -2598,11 +2598,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9c07b25a98dee1b6429a4bb7783465a07bfc8f31",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -4.2,
                 "time": "2016-01-26T11:04:55.232Z"
@@ -2623,7 +2623,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "87a5b18c935803b199a0d2da17d0ecf9014843ae",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -11.5,
                 "time": "2016-01-25T11:32:36.367Z"
@@ -2640,11 +2640,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "a9b83ca5625a5f2e64b06a332ddaca9d6ee7541a",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -0.2,
                 "time": "2016-01-25T11:32:36.233Z"
@@ -2665,7 +2665,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "e6c5a8ff6144cbae76dbb8fe3aeffacf2540de38",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -8.0,
                 "time": "2016-01-25T11:30:31.451Z"
@@ -2682,11 +2682,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4f25d700c9ca4c347c31ac31c451e75af45d1372",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -112,
                 "snr": 3.5,
                 "time": "2016-01-25T11:30:31.321Z"
@@ -2707,7 +2707,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b939ffd10da61b38314f0e54fa939f20863e288f",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -11.5,
                 "time": "2016-01-25T11:24:24.537Z"
@@ -2724,11 +2724,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b30e79ac6b7c57f118d86347dc068994ef3c27fa",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -1.5,
                 "time": "2016-01-25T11:24:24.377Z"
@@ -2749,7 +2749,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2c01b9dcffe090ba98ef3bb8bfe247b14f7091ad",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -113,
                 "snr": -5.8,
                 "time": "2016-01-25T11:22:19.558Z"
@@ -2766,11 +2766,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ca230d11b942f06157b7db6bb746caa4c5ce0d1e",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": -2.0,
                 "time": "2016-01-25T11:22:19.436Z"
@@ -2791,7 +2791,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "cccf263039b245e03548a2017dbdbf570f5f8c56",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -117,
                 "snr": -12.5,
                 "time": "2016-01-25T11:20:14.659Z"
@@ -2808,11 +2808,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "7fd2da8539002743d2f3764b13945c0d617432b8",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -3.8,
                 "time": "2016-01-25T11:20:14.530Z"
@@ -2833,7 +2833,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d4cfdbe88cb3909956e9f2e632ed7832bd4bf828",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -112,
                 "snr": -5.2,
                 "time": "2016-01-25T11:16:08.704Z"
@@ -2850,11 +2850,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "c2dd6518739805157f9197530c2fe544b846c19a",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": 0.2,
                 "time": "2016-01-25T11:16:08.579Z"
@@ -2875,7 +2875,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d9c97d2199c679dce2233d929cf5b1c5705592b8",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -94,
                 "snr": 2.2,
                 "time": "2016-01-25T11:14:03.796Z"
@@ -2892,11 +2892,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e24d1312a36483aa7598873d4c03dca1044cd3a4",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -96,
                 "snr": 4.0,
                 "time": "2016-01-25T11:14:03.674Z"
@@ -2917,7 +2917,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "bd679142ef719cb92350c35f5e01d5361274fddb",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -107,
                 "snr": 4.8,
                 "time": "2016-01-25T11:11:58.896Z"
@@ -2934,11 +2934,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3a866505619962f629d3210e293b8b41cb6b0d03",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -89,
                 "snr": 5.2,
                 "time": "2016-01-25T11:07:52.831Z"
@@ -2959,7 +2959,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ff209e0efa60efe07d9b5747d4d91064442d3723",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -110,
                 "snr": -6.5,
                 "time": "2016-01-25T11:05:48.096Z"
@@ -2976,11 +2976,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "950aedc9f17e3a7ff093beaf2a1925d3d5bfb697",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -1.8,
                 "time": "2016-01-25T11:05:47.915Z"
@@ -3001,7 +3001,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b067a8e06bf9d60a02f03fd3f8bf819b508021d6",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -121,
                 "snr": -10.5,
                 "time": "2016-01-23T17:08:01.108Z"
@@ -3022,7 +3022,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "e3559e6fa8547ac021303cefacaadefac5b8ea33",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -113,
                 "snr": -5.2,
                 "time": "2016-01-23T17:03:55.161Z"
@@ -3043,7 +3043,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "1a2980b3d4447892b7a2e3e277cbd7a7cdbc9dbd",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -110,
                 "snr": 1.5,
                 "time": "2016-01-23T16:10:22.234Z"
@@ -3064,7 +3064,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2811dfe83e0e9f2c448baae7991c65ac19b17917",
                 "marker-color": "#238443",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -79,
                 "snr": 8.5,
                 "time": "2016-01-23T16:08:17.326Z"
@@ -3085,7 +3085,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "57ed0fddcc1b78f6a48b7f56dc81cfc6e07d1937",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -43,
                 "snr": 6.2,
                 "time": "2016-01-23T15:59:31.278Z"
@@ -3106,7 +3106,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "1d82828dc6da4bde1f6b41f2dc65a33d8f787228",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 10.8,
                 "time": "2016-01-22T18:29:16.970Z"
@@ -3127,7 +3127,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d22beebea89a2d85d7fac917318a05c98bd0ae41",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.0,
                 "time": "2016-01-22T18:27:13.816Z"
@@ -3148,7 +3148,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "21ee9238ac915f1ccf25c2100125ca8c91b03ea1",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 9.2,
                 "time": "2016-01-22T18:25:10.638Z"
@@ -3169,7 +3169,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "3dc55bcba3004b6bfa79fdd3a2e709c325a553c1",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 7.5,
                 "time": "2016-01-22T18:23:07.465Z"
@@ -3190,7 +3190,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "270e50abd57ee2ebcf966cfb54a58669c6ee2e6b",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -47,
                 "snr": 7.0,
                 "time": "2016-01-22T18:21:04.298Z"
@@ -3211,7 +3211,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "eb9734ace880107ae5671fe5370b605fa6040587",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 9.8,
                 "time": "2016-01-22T18:19:01.113Z"
@@ -3232,7 +3232,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "208c333bc9fbeeb2280a2e6cc587ea76f5ae9e90",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 6.2,
                 "time": "2016-01-22T18:14:54.774Z"
@@ -3253,7 +3253,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "92d2e8eb52f3f76fac32691ebd2758b4bf076189",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 7.0,
                 "time": "2016-01-22T18:12:51.584Z"
@@ -3274,7 +3274,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "733d2490d2d344ee972292ff95cf151fce6aa3f3",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 9.2,
                 "time": "2016-01-22T18:10:48.417Z"
@@ -3295,7 +3295,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "663188d5cfecb58b23e6e43e0ae4c0b7f629c347",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.5,
                 "time": "2016-01-22T18:08:45.239Z"
@@ -3316,7 +3316,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "c59dd26f6b56937f922491a393f06c040e314a72",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 10.8,
                 "time": "2016-01-22T18:06:42.061Z"
@@ -3337,7 +3337,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "e83a3229676cdabacb4e4f3e7745aa1b8983fb40",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 10.5,
                 "time": "2016-01-22T18:04:38.898Z"
@@ -3358,7 +3358,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d402287e80bb89ca83f3f3faf79c152570b825f1",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.2,
                 "time": "2016-01-22T18:02:35.727Z"
@@ -3379,7 +3379,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "db13702687090039ceff2417cbef9e964a77f0a6",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 10.2,
                 "time": "2016-01-22T18:00:32.559Z"
@@ -3400,7 +3400,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "85ca6e380545c04526d6aa5c1d8c7bfc1996d386",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -47,
                 "snr": 7.2,
                 "time": "2016-01-22T17:58:29.377Z"
@@ -3421,7 +3421,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "6b38d8f756a517744a44be701506d7d7dc0fd59b",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -43,
                 "snr": 6.5,
                 "time": "2016-01-22T17:56:26.214Z"
@@ -3442,7 +3442,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "92ba59340bcba09a2e41f618068ec1dca80ddeef",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 8.5,
                 "time": "2016-01-22T17:54:23.032Z"
@@ -3463,7 +3463,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "051f5635bfcd22c76b1eb35374173e233f7419de",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 8.2,
                 "time": "2016-01-22T17:52:19.923Z"
@@ -3484,7 +3484,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "c992f0c3aca506d5b6b0b6021b5feb1900ea4941",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -46,
                 "snr": 6.2,
                 "time": "2016-01-22T17:50:16.697Z"
@@ -3505,7 +3505,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "8ec798589a422400207f11e05c244ad6c4744459",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 11.2,
                 "time": "2016-01-22T17:48:13.528Z"
@@ -3526,7 +3526,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "b65fa19a6962ac7d77a944476a310f029ac111c3",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 11.0,
                 "time": "2016-01-22T17:46:10.361Z"
@@ -3547,7 +3547,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ce71f90a7aa9cf7b9c8460ff8502b3d50a0e563f",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.2,
                 "time": "2016-01-22T17:44:07.200Z"
@@ -3568,7 +3568,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "edd26c76f28184d9f9b5ca616dec8f0307180572",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 11.5,
                 "time": "2016-01-22T17:42:04.021Z"
@@ -3589,7 +3589,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "5387ebb7a86cd9a7e028665c6c5f34e78de54d28",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 6.5,
                 "time": "2016-01-22T17:40:00.867Z"
@@ -3610,7 +3610,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "86b66dfb8dae6cd4b7c1384ac448bd660ed0927f",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 9.2,
                 "time": "2016-01-22T17:37:57.694Z"
@@ -3631,7 +3631,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "aece55d2cd72a24836d8ba88041de9f2a15fd0ae",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.2,
                 "time": "2016-01-22T17:35:54.520Z"
@@ -3652,7 +3652,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "c45321a36903fac90148dc6448e30ba0def9887e",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.8,
                 "time": "2016-01-22T17:33:51.358Z"
@@ -3673,7 +3673,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "5005d9a0699d0a376d0d298a80d9c8fb2ddbb1fd",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 7.0,
                 "time": "2016-01-22T17:31:48.192Z"
@@ -3694,7 +3694,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2dec6e04d076552cec9a03d9965a014f7b835c11",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 10.0,
                 "time": "2016-01-22T17:29:45.012Z"
@@ -3715,7 +3715,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "5fea3b2f61dca5d1a29964fb18b2649fefa676b4",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 7.5,
                 "time": "2016-01-22T17:27:41.831Z"
@@ -3736,7 +3736,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "cf7a14c2d31e5b26b8a87240c221eed91abbb590",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -53,
                 "snr": 10.5,
                 "time": "2016-01-22T17:25:38.653Z"
@@ -3757,7 +3757,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "1b9360070a63e9603dc478f085b0d3ec192a135a",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.0,
                 "time": "2016-01-22T17:23:35.494Z"
@@ -3778,7 +3778,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "788ba3f5de7fa5f62be1028d8aaff39797921132",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.2,
                 "time": "2016-01-22T17:21:32.308Z"
@@ -3799,7 +3799,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "da64eb74732e2816e11625efceb6eba9e5fd7b8c",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 7.0,
                 "time": "2016-01-22T17:19:29.150Z"
@@ -3820,7 +3820,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "e422cd810c9705e5465d6d2d7b91ec7c650ed45d",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 8.0,
                 "time": "2016-01-22T17:17:25.961Z"
@@ -3841,7 +3841,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "47e0c817a6d86e479f360d423ea802c462a9a4f6",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 10.5,
                 "time": "2016-01-22T17:15:22.791Z"
@@ -3862,7 +3862,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "fe826f068c72e061f2a82cd9df6139863bdaafce",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -48,
                 "snr": 7.2,
                 "time": "2016-01-22T15:38:47.752Z"
@@ -3883,7 +3883,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "94b2e74fe411b82058ca101979b502b201701d38",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.8,
                 "time": "2016-01-22T15:36:44.603Z"
@@ -3904,7 +3904,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "761a38702c36d589ae2d82f5cfe6b323bfef934d",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 8.2,
                 "time": "2016-01-22T15:34:41.409Z"
@@ -3925,7 +3925,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "592e4bb1bb32166cccd60a1d3e0cd596a5b0a1b4",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -43,
                 "snr": 7.8,
                 "time": "2016-01-22T15:32:38.228Z"
@@ -3946,7 +3946,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "a7f208bee42ee0d3ba8157b1b183e2d7e019c4f5",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 10.0,
                 "time": "2016-01-22T15:30:35.061Z"
@@ -3967,7 +3967,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7d15ee30a7386fd58f60662a8f835952bb08065c",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 8.8,
                 "time": "2016-01-22T15:28:31.891Z"
@@ -3988,7 +3988,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ec85ea16174b31adb0a1e250de31f77a73d46c88",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 10.0,
                 "time": "2016-01-22T15:26:28.712Z"
@@ -4009,7 +4009,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "d97f7a240af21e5b039aa9bb642bbc352158ff39",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 9.5,
                 "time": "2016-01-22T15:24:25.551Z"
@@ -4030,7 +4030,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "61e99b5c3209d5fd62505c62c8b8281335621258",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 9.5,
                 "time": "2016-01-22T15:22:22.369Z"
@@ -4051,7 +4051,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "4ae67e60dc990d35ed5bf5e18e150519222bb9a1",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 10.8,
                 "time": "2016-01-22T15:20:19.209Z"
@@ -4072,7 +4072,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "314bcf133acdcfd68972891cc58e6b2d869128ed",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -51,
                 "snr": 11.2,
                 "time": "2016-01-22T15:18:16.057Z"
@@ -4093,7 +4093,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "da395917bae3488faabefc4bb4beec10b25b0bc6",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -53,
                 "snr": 11.0,
                 "time": "2016-01-22T15:16:12.849Z"
@@ -4114,7 +4114,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "020bcc62db60507933a1f64a2e4018133625e12a",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 7.0,
                 "time": "2016-01-22T15:14:09.696Z"
@@ -4135,7 +4135,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "952b631a243475b05adc71abdd4e566c8613f3cd",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -42,
                 "snr": 6.5,
                 "time": "2016-01-15T16:39:28.069Z"
@@ -4156,7 +4156,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "8d790896827ce121c0356da3d9f3a9ec3f1c0513",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -42,
                 "snr": 8.8,
                 "time": "2016-01-15T16:37:24.846Z"
@@ -4177,7 +4177,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "95b51a4b56c3a4a5b65fd50ed2063ca98b3f6819",
                 "marker-color": "#238443",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -80,
                 "snr": 9.0,
                 "time": "2016-01-15T16:35:21.661Z"
@@ -4198,7 +4198,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2471665b128753d15c49649d19510b530134da23",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -65,
                 "snr": 7.2,
                 "time": "2016-01-15T16:33:18.494Z"
@@ -4219,7 +4219,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ee81ad8e7e91bedaacf6f69767acfd543b466406",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -101,
                 "snr": 7.5,
                 "time": "2016-01-15T16:31:15.313Z"
@@ -4240,7 +4240,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "3875db74eaf369843277a13d468ccc2d3ebd09ef",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -113,
                 "snr": 4.5,
                 "time": "2016-01-15T16:29:12.131Z"
@@ -4261,7 +4261,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "ae2a8ff5c941645b816ab0dce28d9c9a590556b6",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -121,
                 "snr": -4.0,
                 "time": "2016-01-15T16:25:05.779Z"
@@ -4282,7 +4282,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "25a6641526ad0edd5943af42c7eb7ed79f883b0f",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -112,
                 "snr": 4.5,
                 "time": "2016-01-15T16:23:02.597Z"
@@ -4303,7 +4303,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "a844eb95d0df8642f71d7180e2adbfe6d8c010bd",
                 "marker-color": "#78c679",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -101,
                 "snr": 2.8,
                 "time": "2016-01-15T16:20:59.432Z"
@@ -4324,7 +4324,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "a8b9cb397fb556210490939a004c73692def21bb",
                 "marker-color": "#addd8e",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -111,
                 "snr": -1.8,
                 "time": "2016-01-15T16:06:37.189Z"
@@ -4345,7 +4345,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "7dfb060aa3712f065ff42d8609a7a3bdec9f77d0",
                 "marker-color": "#addd8e",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -114,
                 "snr": 2.0,
                 "time": "2016-01-15T16:04:34.018Z"
@@ -4366,7 +4366,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "7c7fc837751333b17eaade368d5da8ba4d9642e5",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -91,
                 "snr": 10.0,
                 "time": "2016-01-15T16:02:30.842Z"
@@ -4387,7 +4387,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "62bf392cb0081c78a84289c2daf6037a95c72114",
                 "marker-color": "#78c679",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -102,
                 "snr": 5.8,
                 "time": "2016-01-15T16:00:27.665Z"
@@ -4408,7 +4408,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "72269b5ed7ccbffb6ca420cffd62e65726018e7d",
                 "marker-color": "#addd8e",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -112,
                 "snr": 4.0,
                 "time": "2016-01-15T15:58:24.477Z"
@@ -4429,7 +4429,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "82aa4fe1d965bf1ffcd4cd7a1a5a56982f379d01",
                 "marker-color": "#78c679",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -103,
                 "snr": 7.5,
                 "time": "2016-01-15T15:54:18.127Z"
@@ -4450,7 +4450,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "330374c837ce03b18a6d265f6710e066e1698b8d",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -94,
                 "snr": 9.8,
                 "time": "2016-01-15T15:50:11.766Z"
@@ -4471,7 +4471,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "71fe9c39350dc62ae5aa05973c979387ce20d9fe",
                 "marker-color": "#238443",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -77,
                 "snr": 8.5,
                 "time": "2016-01-15T15:48:08.590Z"
@@ -4492,7 +4492,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "45dae670c7a0cf32af09a53e52ea51cb283b3343",
                 "marker-color": "#78c679",
-                "marker-symbol": "i",
+                "marker-symbol": "d",
                 "rssi": -107,
                 "snr": 0.0,
                 "time": "2016-01-15T15:46:05.409Z"
@@ -4513,7 +4513,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "4f8e40e65f6e81f897aa5d7781858d1e891974db",
                 "marker-color": "#addd8e",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -115,
                 "snr": -3.8,
                 "time": "2016-01-15T15:35:49.534Z"
@@ -4534,7 +4534,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "2626957db55d8189a6a2bec5b12e9ef89c369bc5",
                 "marker-color": "#238443",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -89,
                 "snr": 9.0,
                 "time": "2016-01-15T15:33:46.360Z"
@@ -4555,7 +4555,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "80b5211150acc758b9b052df26593c2af99239f4",
                 "marker-color": "#238443",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -85,
                 "snr": 10.0,
                 "time": "2016-01-15T15:31:43.186Z"
@@ -4576,7 +4576,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "06e2be15034f5416bc5b17caa5b9197e08b0332e",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -59,
                 "snr": 7.0,
                 "time": "2016-01-15T15:29:40.009Z"
@@ -4597,7 +4597,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "04077d9b118fd8bfccb78489f05cbf3eb749a360",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -47,
                 "snr": 9.0,
                 "time": "2016-01-15T15:27:36.833Z"
@@ -4618,7 +4618,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "7dfeb6e86125064a6e0c344be2eba445d1da57a4",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -63,
                 "snr": 8.5,
                 "time": "2016-01-15T15:25:33.660Z"
@@ -4639,7 +4639,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "bb283e3533b86b29d5ee3e6e72f71567cfebc9dc",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 10.2,
                 "time": "2016-01-15T15:23:30.490Z"
@@ -4660,7 +4660,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "630268cf15e3160d20aba952e1c1337f3a176ee3",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 8.0,
                 "time": "2016-01-15T15:21:27.319Z"
@@ -4681,7 +4681,7 @@
                 "gateway_eui": "008000000000A050",
                 "hash": "a45bf59e23898bf1b968acdc466e7b1ff9a8e47f",
                 "marker-color": "#005a32",
-                "marker-symbol": "g",
+                "marker-symbol": "b",
                 "rssi": -49,
                 "snr": 9.5,
                 "time": "2016-01-15T15:19:24.150Z"

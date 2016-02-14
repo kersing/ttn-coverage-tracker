@@ -3,8 +3,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    0.0,
-                    0.0
+                    6.55738,
+                    53.18977
                 ],
                 "type": "Point"
             },
@@ -13,7 +13,7 @@
                 "hash": "1DEE0DD778094AC5",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "h"
+                "sym": "c"
             },
             "type": "Feature"
         },
@@ -27,11 +27,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.7 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "8647ff3525a9ca7fcda08a58bb5071e805842dbe",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -92,
                 "snr": 5.8,
                 "time": "2016-02-13T15:35:15.332Z"
@@ -48,11 +48,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e820be6f0e96a0cf4b7cdefd4ba1765b1780b57a",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -2.8,
                 "time": "2016-02-13T15:33:10.415Z"
@@ -69,11 +69,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "cbe5ba7cf78b0e984b05f12ba175e23447d2e091",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -3.8,
                 "time": "2016-02-13T15:26:59.551Z"
@@ -90,11 +90,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "77ade56d7c04426f24e6c43dc354ee5a7a1d85c0",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -2.5,
                 "time": "2016-02-13T15:24:54.633Z"
@@ -111,11 +111,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.0 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ef9a421c435cb6b8e95353e191a9ba85fc5da88c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -10.2,
                 "time": "2016-02-13T15:20:48.684Z"
@@ -132,11 +132,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.9 km",
+                "distance": "2.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ed366c16a74e1358cd4ca603f2013b08d76b53f5",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -12.5,
                 "time": "2016-02-13T14:47:49.440Z"
@@ -153,11 +153,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.4 km",
+                "distance": "2.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e23cb4f2dd9963bf54085a08885c07eaa0d93a33",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -9.0,
                 "time": "2016-02-13T14:43:43.478Z"
@@ -174,11 +174,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "8e7fc3b35c8c701441e82ce2a2a4bf91561ea9f0",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -97,
                 "snr": 6.5,
                 "time": "2016-02-13T14:35:27.706Z"
@@ -195,11 +195,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e0c53edd902d0003d715080968069c4c3d9f7944",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -2.0,
                 "time": "2016-02-11T11:47:00.507Z"
@@ -216,11 +216,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e1509c2a07c52df88a550385202551438f0bd6fa",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -7.0,
                 "time": "2016-02-11T11:42:54.559Z"
@@ -237,11 +237,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b2d6d8319a93ed2c034e3775e6881eb7ab49b564",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -2.5,
                 "time": "2016-02-11T11:38:48.616Z"
@@ -258,11 +258,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6fe43d27411b452aa3bca3230b81f1f66536521c",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -0.8,
                 "time": "2016-02-11T11:36:43.702Z"
@@ -279,11 +279,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.8 km",
+                "distance": "1.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "298b18ed368db3145cb5fc8903a786f2147712b3",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -3.8,
                 "time": "2016-02-11T11:28:31.811Z"
@@ -300,11 +300,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.1 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "001fbbc593d569d449b554276a20793f6f43bc1d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -14.2,
                 "time": "2016-02-11T11:24:22.013Z"
@@ -321,11 +321,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6dd68351e998c8b5f23ebcbf4964f0e5de05e39f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -120,
                 "snr": -13.2,
                 "time": "2016-02-11T11:20:16.036Z"
@@ -342,11 +342,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "02528f43085278967fed7e29fc367dbb192f0b51",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -10.0,
                 "time": "2016-02-11T11:16:06.217Z"
@@ -363,11 +363,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.5 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "5ad1abd8e37e416f903d1b53901417209b845714",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -9.0,
                 "time": "2016-02-11T11:07:54.340Z"
@@ -384,11 +384,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "83bd64bffc1eb3960a582af09ec5f5778b167b9c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -6.2,
                 "time": "2016-02-11T11:05:49.423Z"
@@ -405,11 +405,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b4abc70e36b148b95c3b309a74a094d58292b3cb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -6.0,
                 "time": "2016-01-30T15:19:13.745Z"
@@ -426,11 +426,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6ac36e5653cfc243f7f995c431e54b6e70bf769b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-01-30T15:17:08.826Z"
@@ -447,11 +447,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "1a9f9d0f04240be0a1456082d72badd11cc803a2",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -115,
                 "snr": 2.0,
                 "time": "2016-01-30T15:13:02.887Z"
@@ -468,11 +468,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "16ab937f0fee290b47e34dabb23e9daa356c47a6",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -105,
                 "snr": 5.5,
                 "time": "2016-01-30T14:40:07.535Z"
@@ -489,11 +489,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "49d3802a13a9c1baa4ccbe3ef10ce82d3e3f8d35",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -62,
                 "snr": 7.0,
                 "time": "2016-01-30T14:35:57.718Z"
@@ -510,11 +510,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "636a93af3bd2cdc93628c0d959b0fd9d3c2a8175",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -61,
                 "snr": 6.2,
                 "time": "2016-01-29T17:57:24.294Z"
@@ -531,11 +531,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.5 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3d41dde57801bc1542dec3e65cc36326c4c75781",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -76,
                 "snr": 7.5,
                 "time": "2016-01-29T17:55:19.388Z"
@@ -552,11 +552,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4e4022f58cb79d09d33e7c559af15e415d67ad3f",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -88,
                 "snr": 6.5,
                 "time": "2016-01-29T17:51:13.431Z"
@@ -573,11 +573,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "2e47a32a11b88833981d3524027e4d07b39c3e1b",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -106,
                 "snr": 2.8,
                 "time": "2016-01-29T17:49:08.514Z"
@@ -594,11 +594,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "6e93e7b1786123ff0a595cbae4a606cecf27a466",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -14.2,
                 "time": "2016-01-29T17:47:03.608Z"
@@ -615,11 +615,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.2 km",
+                "distance": "0.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "bb008efd6fa248bc7ca5766f2f6b6d6dadf113c8",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -1.5,
                 "time": "2016-01-29T17:40:56.622Z"
@@ -636,11 +636,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.3 km",
+                "distance": "0.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "f20c639f9efef9c2e93c4b246bec65ccc21e1ab3",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -68,
                 "snr": 7.5,
                 "time": "2016-01-29T17:38:51.712Z"
@@ -657,11 +657,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "69e4070208329160e5b815ec464211e67451fc00",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -55,
                 "snr": 7.8,
                 "time": "2016-01-29T17:36:46.789Z"
@@ -678,11 +678,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "1c4bc4096a713b98bb8af08546900a68ec48c337",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -116,
                 "snr": -10.5,
                 "time": "2016-01-28T11:28:28.831Z"
@@ -699,11 +699,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9bfa6511a97b31dd7b50dde0eb1f3212f40c2a59",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -4.2,
                 "time": "2016-01-28T11:26:23.913Z"
@@ -720,11 +720,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "deba4ae19c3f97a02da3792f7982066999e20ad6",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -96,
                 "snr": -1.2,
                 "time": "2016-01-28T11:24:18.996Z"
@@ -741,11 +741,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "adc5740dea19f96af4c9c44c07dfa632255b2bed",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -111,
                 "snr": 1.5,
                 "time": "2016-01-28T11:20:13.051Z"
@@ -762,11 +762,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e3e781decaa42003db2f679d63907b1f7b4b2f4d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -0.5,
                 "time": "2016-01-28T11:18:08.131Z"
@@ -783,11 +783,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "f181db5382ffe17fac25131ba867419830b8e18d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -105,
                 "snr": 4.2,
                 "time": "2016-01-28T11:16:03.226Z"
@@ -804,11 +804,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3a33af831e6aee47e24969be8ce35f961c90af40",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -95,
                 "snr": 6.0,
                 "time": "2016-01-28T11:09:56.246Z"
@@ -825,11 +825,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "571538c5bed37c947f8cc1077fa799e5d28e0854",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -111,
                 "snr": 3.2,
                 "time": "2016-01-28T11:07:51.338Z"
@@ -846,11 +846,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "53c7184db52c2b719b0806d3813d4dbd0af0c24d",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": 0.2,
                 "time": "2016-01-28T11:05:46.430Z"
@@ -867,11 +867,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "65b1c49070b4d7a54fa5fe102cb1a0bca0f08535",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.0,
                 "time": "2016-01-26T23:59:04.071Z"
@@ -888,11 +888,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "7ce6c4fed99fa0f984cd77271f99f144f20605f6",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 7.2,
                 "time": "2016-01-26T23:52:53.225Z"
@@ -909,11 +909,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e2a62fcb27d35ad74fd6820dae36b6709f0e26ad",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.2,
                 "time": "2016-01-26T23:48:47.286Z"
@@ -930,11 +930,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "100cee6fbbf832a7caa100b384e897d88f890ef4",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 6.8,
                 "time": "2016-01-26T23:44:41.335Z"
@@ -951,11 +951,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "878f86a638f216cbe30797e89118ceebd37d2201",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 7.0,
                 "time": "2016-01-26T23:36:25.595Z"
@@ -972,11 +972,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "bcb82641d8a42d311e18d458d2571d6af6792c93",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 6.5,
                 "time": "2016-01-26T23:34:20.676Z"
@@ -993,11 +993,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "888cf5052e67345691a23b7453ecff60ee4bd25f",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -52,
                 "snr": 6.0,
                 "time": "2016-01-26T23:26:08.794Z"
@@ -1014,11 +1014,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.4 km",
+                "distance": "0.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "d5c43e81458490fe7c2328a4b57d4f40968809ac",
                 "marker-color": "#005a32",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -51,
                 "snr": 7.0,
                 "time": "2016-01-26T23:21:58.978Z"
@@ -1035,11 +1035,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "eacd1d02427663493edf0ed9b1fad6220254acc9",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -118,
                 "snr": -12.0,
                 "time": "2016-01-26T11:42:55.177Z"
@@ -1056,11 +1056,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b19476b4ca5da51080ade127819993ef541adcfb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -3.0,
                 "time": "2016-01-26T11:37:54.308Z"
@@ -1077,11 +1077,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.6 km",
+                "distance": "1.2 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e58a294738cad9dba0f8ad1df927d6d1cd967169",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -104,
                 "snr": 0.5,
                 "time": "2016-01-26T11:33:44.483Z"
@@ -1098,11 +1098,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.9 km",
+                "distance": "1.5 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e76c2c8267dcee0ce8ca9af69a8e090ff587385b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -120,
                 "snr": -11.0,
                 "time": "2016-01-26T11:27:37.514Z"
@@ -1119,11 +1119,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.0 km",
+                "distance": "1.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4c64581d26a407ce69d98a777801308d436b4cf3",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -12.2,
                 "time": "2016-01-26T11:25:32.597Z"
@@ -1140,11 +1140,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "a2d9277c6c9ebffcb9d87eb59f612804cf0ded6f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -7.8,
                 "time": "2016-01-26T11:23:27.689Z"
@@ -1161,11 +1161,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.2 km",
+                "distance": "1.8 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ae68d0ee511dd767a428b7389ade126f5410f509",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -121,
                 "snr": -14.0,
                 "time": "2016-01-26T11:17:16.855Z"
@@ -1182,11 +1182,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5949.1 km",
+                "distance": "1.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "18088ed2401835a6e3fb7493d9d4fd722b8d995b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -119,
                 "snr": -12.0,
                 "time": "2016-01-26T11:15:11.947Z"
@@ -1203,11 +1203,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.7 km",
+                "distance": "1.3 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9a84b6362e338e13142feb1c634acda671bd6316",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -9.5,
                 "time": "2016-01-26T11:09:04.985Z"
@@ -1224,11 +1224,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.5 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "11d5ab8efa0afee012802d039cfd45d4d7762d30",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-01-26T11:07:00.075Z"
@@ -1245,11 +1245,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.4 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "9c07b25a98dee1b6429a4bb7783465a07bfc8f31",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -4.2,
                 "time": "2016-01-26T11:04:55.232Z"
@@ -1266,11 +1266,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "a9b83ca5625a5f2e64b06a332ddaca9d6ee7541a",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -113,
                 "snr": -0.2,
                 "time": "2016-01-25T11:32:36.233Z"
@@ -1287,11 +1287,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "4f25d700c9ca4c347c31ac31c451e75af45d1372",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -112,
                 "snr": 3.5,
                 "time": "2016-01-25T11:30:31.321Z"
@@ -1308,11 +1308,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "b30e79ac6b7c57f118d86347dc068994ef3c27fa",
                 "marker-color": "#addd8e",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -114,
                 "snr": -1.5,
                 "time": "2016-01-25T11:24:24.377Z"
@@ -1329,11 +1329,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.3 km",
+                "distance": "1.1 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "ca230d11b942f06157b7db6bb746caa4c5ce0d1e",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": -2.0,
                 "time": "2016-01-25T11:22:19.436Z"
@@ -1350,11 +1350,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.2 km",
+                "distance": "1.0 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "7fd2da8539002743d2f3764b13945c0d617432b8",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -3.8,
                 "time": "2016-01-25T11:20:14.530Z"
@@ -1371,11 +1371,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.9 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "c2dd6518739805157f9197530c2fe544b846c19a",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -110,
                 "snr": 0.2,
                 "time": "2016-01-25T11:16:08.579Z"
@@ -1392,11 +1392,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.9 km",
+                "distance": "0.7 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "e24d1312a36483aa7598873d4c03dca1044cd3a4",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -96,
                 "snr": 4.0,
                 "time": "2016-01-25T11:14:03.674Z"
@@ -1413,11 +1413,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5947.8 km",
+                "distance": "0.4 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "3a866505619962f629d3210e293b8b41cb6b0d03",
                 "marker-color": "#238443",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -89,
                 "snr": 5.2,
                 "time": "2016-01-25T11:07:52.831Z"
@@ -1434,11 +1434,11 @@
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "5948.0 km",
+                "distance": "0.6 km",
                 "gateway_eui": "1DEE0DD778094AC5",
                 "hash": "950aedc9f17e3a7ff093beaf2a1925d3d5bfb697",
                 "marker-color": "#78c679",
-                "marker-symbol": "h",
+                "marker-symbol": "c",
                 "rssi": -109,
                 "snr": -1.8,
                 "time": "2016-01-25T11:05:47.915Z"

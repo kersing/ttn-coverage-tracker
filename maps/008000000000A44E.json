@@ -13,7 +13,7 @@
                 "hash": "008000000000A44E",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "j"
+                "sym": "e"
             },
             "type": "Feature"
         },
@@ -31,7 +31,7 @@
                 "gateway_eui": "008000000000A44E",
                 "hash": "af691909654221e5e8954bc62a3243d0411fec89",
                 "marker-color": "#78c679",
-                "marker-symbol": "j",
+                "marker-symbol": "e",
                 "rssi": -102,
                 "snr": -1.5,
                 "time": "2016-02-13T14:58:06.254Z"
