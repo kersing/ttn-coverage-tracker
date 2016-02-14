@@ -1,5 +1,6 @@
 import gateway_locator
 import arf8084
+import simple
 
 import logging
 
@@ -19,5 +20,11 @@ def get_coords(data_point):
             coords = arf8084.parse_coords(data_point)
         except:
             logger.debug('Cannot parse coords using arf8084 format')
+
+    if coords is None:
+        try:
+            coords = simple.parse_coords(data_point)
+        except:
+            logger.debug('Cannot parse coords using simple format')
 
     return coords
