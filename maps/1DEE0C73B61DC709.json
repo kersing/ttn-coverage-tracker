@@ -3,38 +3,38 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.57001,
-                    53.22088
+                    0.0,
+                    0.0
                 ],
                 "type": "Point"
             },
             "properties": {
-                "eui": "008000000000A44E",
-                "hash": "008000000000A44E",
+                "eui": "1DEE0C73B61DC709",
+                "hash": "1DEE0C73B61DC709",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "f"
+                "sym": "d"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    6.566431,
-                    53.220623
+                    6.585993,
+                    53.210599
                 ],
                 "type": "Point"
             },
             "properties": {
                 "data_rate": "SF12BW125",
-                "distance": "0.2 km",
-                "gateway_eui": "008000000000A44E",
-                "hash": "af691909654221e5e8954bc62a3243d0411fec89",
-                "marker-color": "#78c679",
-                "marker-symbol": "f",
-                "rssi": -102,
-                "snr": -1.5,
-                "time": "2016-02-13T14:58:06.254Z"
+                "distance": "5950.0 km",
+                "gateway_eui": "1DEE0C73B61DC709",
+                "hash": "f1f6265a2a5c69cb7050a155c861d0aa18a9c856",
+                "marker-color": "#41ab5d",
+                "marker-symbol": "d",
+                "rssi": -99,
+                "snr": 1.5,
+                "time": "2016-02-20T15:56:33.488Z"
             },
             "type": "Feature"
         }

@@ -13,7 +13,7 @@
                 "hash": "1DEE15E85FA7DCEF",
                 "marker-color": "#990000",
                 "marker-symbol": "rocket",
-                "sym": "d"
+                "sym": "e"
             },
             "type": "Feature"
         },
@@ -31,7 +31,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "60742aac0cea7671a55616548b016b7dc82c0a2f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -14.5,
                 "time": "2016-02-13T15:14:37.833Z"
@@ -52,7 +52,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "a688c5be384a2681f96441a9abe22e02afd44756",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -118,
                 "snr": -8.8,
                 "time": "2016-02-13T15:10:31.873Z"
@@ -73,7 +73,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "0c0543b3dc6cb00bada0b4b788f459fe67b9458c",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -10.2,
                 "time": "2016-02-13T15:08:26.964Z"
@@ -94,7 +94,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "93a60448d2c334f2b0d43c32074cff96645c917d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -119,
                 "snr": -10.5,
                 "time": "2016-02-13T14:51:59.370Z"
@@ -115,7 +115,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "3dc5b6491f293b2398a537c1298926f4378a1837",
                 "marker-color": "#78c679",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -108,
                 "snr": 4.5,
                 "time": "2016-02-13T14:49:54.369Z"
@@ -136,7 +136,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "188a07557760865225dbf0d3c64e6c42df58094d",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -7.8,
                 "time": "2016-02-13T14:43:43.501Z"
@@ -157,7 +157,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "69e144311e3242b9557c17354fe29e7a99daa583",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -12.0,
                 "time": "2016-02-13T14:41:38.644Z"
@@ -178,7 +178,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "c3b68b7db69dfbdf66900441daade6e994a3046f",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -119,
                 "snr": -17.0,
                 "time": "2016-02-11T11:28:31.828Z"
@@ -199,7 +199,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "15d9026eccf62a21de9652b3e52f808964cf666b",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -119,
                 "snr": -13.5,
                 "time": "2016-02-11T11:24:21.997Z"
@@ -220,7 +220,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "88655224375a26944c516e107c474cb2763442cb",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -119,
                 "snr": -8.8,
                 "time": "2016-02-11T11:20:16.051Z"
@@ -241,7 +241,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "dbb1087e00f881c95b83ac1c42d8dd3b468b1c1e",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -119,
                 "snr": -16.5,
                 "time": "2016-01-26T11:27:37.524Z"
@@ -262,7 +262,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "574d74c330e5205157b3d09aa460713f9a2baf74",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -12.5,
                 "time": "2016-01-26T11:25:32.611Z"
@@ -283,7 +283,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "9fe4a78ec193ae50488f63a64d270568a63bf245",
                 "marker-color": "#d9f0a3",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -117,
                 "snr": -16.5,
                 "time": "2016-01-26T11:23:27.703Z"
@@ -304,7 +304,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "a8b9cb397fb556210490939a004c73692def21bb",
                 "marker-color": "#addd8e",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -111,
                 "snr": -1.8,
                 "time": "2016-01-15T16:06:37.189Z"
@@ -325,7 +325,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "7dfb060aa3712f065ff42d8609a7a3bdec9f77d0",
                 "marker-color": "#addd8e",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -114,
                 "snr": 2.0,
                 "time": "2016-01-15T16:04:34.018Z"
@@ -346,7 +346,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "7c7fc837751333b17eaade368d5da8ba4d9642e5",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -91,
                 "snr": 10.0,
                 "time": "2016-01-15T16:02:30.842Z"
@@ -367,7 +367,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "62bf392cb0081c78a84289c2daf6037a95c72114",
                 "marker-color": "#78c679",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -102,
                 "snr": 5.8,
                 "time": "2016-01-15T16:00:27.665Z"
@@ -388,7 +388,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "72269b5ed7ccbffb6ca420cffd62e65726018e7d",
                 "marker-color": "#addd8e",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -112,
                 "snr": 4.0,
                 "time": "2016-01-15T15:58:24.477Z"
@@ -409,7 +409,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "82aa4fe1d965bf1ffcd4cd7a1a5a56982f379d01",
                 "marker-color": "#78c679",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -103,
                 "snr": 7.5,
                 "time": "2016-01-15T15:54:18.127Z"
@@ -430,7 +430,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "330374c837ce03b18a6d265f6710e066e1698b8d",
                 "marker-color": "#41ab5d",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -94,
                 "snr": 9.8,
                 "time": "2016-01-15T15:50:11.766Z"
@@ -451,7 +451,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "71fe9c39350dc62ae5aa05973c979387ce20d9fe",
                 "marker-color": "#238443",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -77,
                 "snr": 8.5,
                 "time": "2016-01-15T15:48:08.590Z"
@@ -472,7 +472,7 @@
                 "gateway_eui": "1DEE15E85FA7DCEF",
                 "hash": "45dae670c7a0cf32af09a53e52ea51cb283b3343",
                 "marker-color": "#78c679",
-                "marker-symbol": "d",
+                "marker-symbol": "e",
                 "rssi": -107,
                 "snr": 0.0,
                 "time": "2016-01-15T15:46:05.409Z"
