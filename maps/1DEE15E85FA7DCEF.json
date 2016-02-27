@@ -478,6 +478,174 @@
                 "time": "2016-01-15T15:46:05.409Z"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.572676,
+                    53.208106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.8 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "f91ac5e4a3bc9eee47841aadf2a7b60295be99f6",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -115,
+                "snr": -14.8,
+                "time": "2016-02-27T14:24:00.048Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.569651,
+                    53.213186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.2 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "8873ac0dfec6e91965e44fc566a4c77a14be07c8",
+                "marker-color": "#78c679",
+                "marker-symbol": "e",
+                "rssi": -106,
+                "snr": 0.5,
+                "time": "2016-02-27T14:21:55.142Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.569096,
+                    53.214146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.2 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "b8fdde66ec03e41f63a4dedde0412e85f6f31a0a",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -112,
+                "snr": 3.5,
+                "time": "2016-02-27T13:27:25.100Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.570513,
+                    53.214733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.3 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "40fa64ca67dc911f46b0062bb661e5a88461fc69",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -115,
+                "snr": 2.8,
+                "time": "2016-02-27T13:25:20.187Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.567,
+                    53.219099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.6 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "e5db7d24de2d1ec96e6d3848f31ff475aaeee048",
+                "marker-color": "#d9f0a3",
+                "marker-symbol": "e",
+                "rssi": -119,
+                "snr": -12.8,
+                "time": "2016-02-27T13:19:09.314Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.566983,
+                    53.219115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.6 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "039ec828b2eef45c44206eba82daf85a1d03b472",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -115,
+                "snr": -13.0,
+                "time": "2016-02-27T13:17:04.515Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.56402,
+                    53.216545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.3 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "944cda2cbfb5abf39e2cf51ba31bd20c90a9087f",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -112,
+                "snr": -3.0,
+                "time": "2016-02-27T13:10:57.399Z"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.56296,
+                    53.211898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "data_rate": "SF12BW125",
+                "distance": "0.3 km",
+                "gateway_eui": "1DEE15E85FA7DCEF",
+                "hash": "da0078f50ef02df6b05d1cc45f6c0bc3afa81941",
+                "marker-color": "#addd8e",
+                "marker-symbol": "e",
+                "rssi": -111,
+                "snr": 1.2,
+                "time": "2016-02-27T13:06:47.564Z"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
